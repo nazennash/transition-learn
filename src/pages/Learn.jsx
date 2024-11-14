@@ -16,11 +16,11 @@ export const Learn = () => {
           > */}
           <a
             href=""
-            className="bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-700 
-                         transition-colors ease-in-out duration-300 border-4"
+            className="bg-blue-800 text-white py-2 px-4 rounded-lg hover:bg-blue-700 
+                         transition-colors ease-in-out duration-300 border-4 border-red-500"
             style={{
               borderImage:
-                "conic-gradient(#ff4545, #00ff99, #006aff, #ff00ff, #ff4545) 1",
+                "conic-gradient(#ff4545, #00ff99, #006aff, #ff00ff, #ff4545)1",
               borderImageSlice: 1,
             }}
           >
